@@ -1,4 +1,4 @@
-#!/bin/lyr -c 1
+#!/bin/lyr
 # Dream a little dream of me
 ## The Mamas & the Papas
 ### C

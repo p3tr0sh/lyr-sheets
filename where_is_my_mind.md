@@ -11,7 +11,8 @@ Oh - stop
 
 With your [E]feet on the air and your [c#]head on the ground [G#] [A]
 [E] Try th[c#]is trick and [G#]spin it, [A]yeah
-[E] Your head will col[c#]lapse, but there's [G#]nothing in it and you'll [A]ask yourself
+[E] Your head will col[c#]lapse
+But there's [G#]nothing in it and you'll [A]ask yourself
 
     [E] Where is my [c#]mind?
     [G#] Where is my [A]mind?

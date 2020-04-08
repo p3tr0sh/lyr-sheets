@@ -5,9 +5,11 @@
 
 ---
 
-All my [G]bags are packed, I'm [C]ready to go, I'm [G]standing here out[C]side your door
+All my [G]bags are packed, I'm [C]ready to go
+I'm [G]standing here out[C]side your door
 I [G]hate to wake you [C]up to say good-[D]bye
-But the dawn is breaking, it's early morn, the taxi's waiting He's blowing his horn
+But the dawn is breaking, it's early morn
+The taxi's waiting He's blowing his horn
 Already I'm so lonesome I could die
 
 

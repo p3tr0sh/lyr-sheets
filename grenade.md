@@ -5,14 +5,6 @@
 
 ---
 
-Schema:
-e|-x-----x-----x---|
-B|---x-----x-----x-|
-G|-----x-----x-----|
-D|(x)--------------|
-A|(x)--------------|
-E|-----------------|
-
 [d]Easy come, easy go That's just how you live, oh
 [a]Take, take, take it all But you never give
 [d]Should've known you was trouble From the first kiss
@@ -54,3 +46,11 @@ Yeah, you'll smile in my face then rip the brakes out my car
 You wouldn't do the s[d]ame
 Oh, you'd never do the s[a]ame
 Oh, no no no, oh
+
+[Schema:]
+e|-x-----x-----x---|
+B|---x-----x-----x-|
+G|-----x-----x-----|
+D|(x)--------------|
+A|(x)--------------|
+E|-----------------|

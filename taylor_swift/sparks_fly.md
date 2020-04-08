@@ -37,7 +37,8 @@ And I could wait patiently but I really wish you would...
     Drop everything now
 
 I'll run my fingers through your hair and watch the lights go wild.
-Just keep on keeping your eyes on me, it's just wrong enough to make it feel right.
+Just keep on keeping your eyes on me
+It's just wrong enough to make it feel right.
 And lead me up the staircase
 Won't you whisper soft and slow?
 I'm captivated by you, baby, like a firework show.

@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/bin/lyr -c3
 # Only the Young
 ## Taylor Swift
 ### D+1

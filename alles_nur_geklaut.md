@@ -1,4 +1,4 @@
-#!/bin/lyr -c 1
+#!/bin/lyr -c1
 # Alles nur geklaut
 ## Die Prinzen
 ### e
