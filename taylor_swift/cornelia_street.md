@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Cornelia Street
 ## Taylor Swift
 ### C
+
+*album:lover*
 
 ---
 

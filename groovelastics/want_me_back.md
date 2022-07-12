@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr -c1
 # Want Me Back
 ## Cody Fry
 ### C/e

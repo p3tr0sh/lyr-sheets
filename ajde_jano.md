@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Ajde Jano
 ## Serbian Folk
 ### d
+
+*wohldenberg*
 
 ---
 

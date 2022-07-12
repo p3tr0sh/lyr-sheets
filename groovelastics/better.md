@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr -c1
 # Better
 ## Cody Fry
 ### b

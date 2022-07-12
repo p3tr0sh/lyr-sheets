@@ -1,4 +1,4 @@
-#!/bin/lyr -c3
+#!/usr/bin/env lyr -c3
 # Only the Young
 ## Taylor Swift
 ### D+1
@@ -22,7 +22,7 @@ You were out[e]numbered — this tim[G]e
 
 So every day now, you brace for the sound
 You've only heard on TV
-You go to class, scared, wondering where 
+You go to class, scared, wondering where
 The best hiding spot would be
 And the big bad man and his big bad clan
 Their hands are stained with red

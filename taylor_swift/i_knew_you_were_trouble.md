@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # I knew you were trouble
 ## Taylor Swift
 ### D+4
+
+*album:red*
 
 ---
 

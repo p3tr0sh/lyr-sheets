@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Dream a little dream of me
 ## The Mamas & the Papas
 ### C
+
+*ukulele*
 
 ---
 

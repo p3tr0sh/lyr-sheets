@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Sparks Fly
 ## Taylor Swift
 ### d
+
+*album:speak now*
 
 ---
 
@@ -47,4 +49,4 @@ I'm captivated by you, baby, like a firework show.
 
 And the sparks fly...
 Oh, baby, smile...
-And the sparks fly... 
+And the sparks fly...

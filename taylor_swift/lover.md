@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Lover
 ## Taylor Swift
 ### G
+
+*album:lover*
 
 ---
 
@@ -53,4 +55,4 @@ Lover
     You're my, my, my, my
     Oh, you're my, my, my, my
     Darling, you're my, my, my, my
-    Lover 
+    Lover

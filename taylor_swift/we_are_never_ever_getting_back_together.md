@@ -1,30 +1,32 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # We are never ever getting back together
 ## Taylor Swift
 ### C
 
+*album:red*
+
 ---
 
-| [C] [G] [D] [e] |
+| [Cadd9] [G] [Dsus4] [e7] |
 
-[C]I remember when we broke [G]up the first time
-[D]Saying, "This is it, I've had e[e]nough," 'cause like
-We [C]hadn't seen each other in a [G]month
-When you [D]said you needed [e]space. (What?)
-[C]Then you come around again and [G]say
-"Baby, I [D]miss you and I swear I'm gonna [e]change, trust me."
-Re[C]member how that lasted for a [G]day?
-I say, "I [D]hate you," we break up, you [e]call me, "I love you."
+[Cadd9]I remember when we broke [G]up the first time
+[Dsus4]Saying, "This is it, I've had e[e7]nough," 'cause like
+We [Cadd9]hadn't seen each other in a [G]month
+When you [Dsus4]said you needed [e7]space. (What?)
+[Cadd9]Then you come around again and [G]say
+"Baby, I [Dsus4]miss you and I swear I'm gonna [e7]change, trust me."
+Re[Cadd9]member how that lasted for a [G]day?
+I say, "I [Dsus4]hate you," we break up, you [e7]call me, "I love you."
 
-[C]Oo[G]h, we [D]called it off a[e]gain last night
-But [C]oo[G]h, [D]this time I'm [e]telling you, I'm telling you
+[Cadd9]Oo[G]h, we [Dsus4]called it off a[e7]gain last night
+But [Cadd9]oo[G]h, [Dsus4]this time I'm [e7]telling you, I'm telling you
 
-    [C]We are [G]never ever eve[D]r getting [e]back together,
-    [C]We are [G]never ever eve[D]r getting [e]back together,
-    [C]You go talk to [G]your friends, talk to [G]my friends, talk to [e]me
-    But [C]we are [G]never ever ever[D] ever[-] getting back to[C]gether
+    [Cadd9]We are [G]never ever eve[Dsus4]r getting [e7]back together,
+    [Cadd9]We are [G]never ever eve[Dsus4]r getting [e7]back together,
+    [Cadd9]You go talk to [G]your friends, talk to [Dsus4]my friends, talk to [e7]me
+    But [Cadd9]we are [G]never ever ever[Dsus4] ever[-] getting back to[Cadd9]gether
 
-[G] Like,[D] ever... [e]
+[G] Like,[Dsus4] ever... [e7]
 
 I'm really gonna miss you picking fights
 And me falling for it screaming that I'm right
@@ -44,7 +46,7 @@ Oh oh oh
 
 [-]I used to think that we were forever ever
 And I used to say, "Never say never..."
-[C] [G] [D] [e]Uggg... so he calls me up and he's like, "I still love you,"
+[Cadd9] [G] [Dsus4] [e7]Uggg... so he calls me up and he's like, "I still love you,"
 And I'm like... "I just... I mean this is exhausting, you know, like,
 We are never getting back together. Like, ever"
 

@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Leaving on a jetplane
 ## John Denver
 ### G
+
+*wohldenberg*
 
 ---
 
@@ -35,4 +37,4 @@ About the times I won't have to say
     'Cause I'm leaving on a jet plane, don't know when I'll be back again
     Oh, babe, I hate to go
     I'm leaving on a jet plane, don't know when I'll be back again
-    Oh, babe, I hate to go 
+    Oh, babe, I hate to go

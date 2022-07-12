@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Hotel California
 ## The Eagles
 ### e+7

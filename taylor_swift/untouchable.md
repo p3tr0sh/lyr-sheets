@@ -1,7 +1,9 @@
-#!/bin/lyr -c 3
+#!/usr/bin/env lyr -c 3
 # Untouchable
 ## Taylor Swift
 ### e+3
+
+*album:fearless*
 
 ---
 
@@ -26,9 +28,9 @@ I'm caught up in [e]you,[G] I'm caught up in [D]you[A]
 It's half full, and I won't wait here all day
 I know you're saying that you'd be here anyway
 
-But you're untouchable, 
+But you're untouchable,
 burning brighter than the sun
-And now that you're close 
+And now that you're close
 I feel like coming undone
 
     In the middle of the night
@@ -50,9 +52,9 @@ I feel like coming undone
 
 I'm caught up in you. Oh, oh.
 
-But you're untouchable, 
+But you're untouchable,
 burning brighter than the sun
-Now that you're close 
+Now that you're close
 I feel like coming undone
 
     In the middle of the night

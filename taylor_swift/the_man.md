@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # The Man
 ## Taylor Swift
 ### C
+
+*album:lover*
 
 ---
 

@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Hallelujah
 ## Leonard Cohen
 ### C

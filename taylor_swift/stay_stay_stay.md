@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Stay Stay Stay
 ## Taylor Swift
 ### C
+
+*album:red*
 
 ---
 

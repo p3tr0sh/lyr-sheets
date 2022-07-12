@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Nothing ever happens
 ## Del Amitri
 ### C+5

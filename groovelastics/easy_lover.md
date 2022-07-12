@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr -c1
 # Easy Lover
 ## Bailey, Collins, East
 ### e

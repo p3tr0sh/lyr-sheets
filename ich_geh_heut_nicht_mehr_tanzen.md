@@ -1,23 +1,25 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Ich geh heut nicht mehr tanzen
 ## AnnenMayKantereit
-### e+1
+### f
+
+*ukulele*
 
 ---
 
-Ich weiß[e], ich hab'[e] gesagt[e] [e]
-Ich bin[a6] heute[a6] am Start[a6]
-A[a6]ber[e] ich komm' nicht[e] klar[e] und da[e]
-Wo [a6]ich schon tau[a6]send Mal war[a6]
-[a6]Will ich heu[e]te nicht hin[e]
-[e]Weil da im[e]mer die gle[a6]ichen Leu[a6]te sind[a6]
-Und weil ich [e]müde bin [a6]
-Weil ich [e]müde bin [a6]
+Ich weiß[f], ich hab'[f] gesagt[f] [f]
+Ich bin[bb6] heute[bb6] am Start[bb6]
+A[bb6]ber[f] ich komm' nicht[f] klar[f] und da[f]
+Wo [bb6]ich schon tau[bb6]send Mal war[bb6]
+[bb6]Will ich heu[f]te nicht hin[f]
+[f]Weil da im[f]mer die gle[bb6]ichen Leu[bb6]te sind[bb6]
+Und weil ich [f]müde bin [bb6]
+Weil ich [f]müde bin [bb6]
 
-    Ich glaub', ich geh' heut nicht mehr [e]tanzen
-    Ich glaub', ich geh' heut nicht mehr [a6]raus
-    Ich glaub', ich rauche heute [e]Pflanzen
-    Und bleib' allein zu[a6]haus
+    Ich glaub', ich geh' heut nicht mehr [f]tanzen
+    Ich glaub', ich geh' heut nicht mehr [bb6]raus
+    Ich glaub', ich rauche heute [f]Pflanzen
+    Und bleib' allein zu[bb6]haus
     Ich glaub', ich geh' heut nicht mehr tanzen
     Ich glaub', ich geh' heut nicht mehr raus
     Ich glaub', ich rauche heute Pflanzen
@@ -52,3 +54,14 @@ Ernähr' mich seit Wochen nur noch von Resten
     Ich glaub', ich geh' heut nicht mehr raus
     Ich glaub', ich rauche heute Pflanzen
     Und bleib' allein zuhaus
+
+A|-[f]--------3-------4-------3-------|-[bb6]--------1-------31------1-------|
+E|-----1-------1-------1-------1---|-----1-------1-------1-------1---|
+C|---0---------------------------0-|---1---------------------------1-|
+G|-1-----1---1---1---1---1---1-----|-0-----0---0---0---0---0---0-----|
+                                                     p
+
+A|-[f]--------3-------4-------3-------|-[bb6]--------1-------[c]3-------[Eb]1-------|
+E|-----1-------1-------1-------1---|-----1-------1---3-------3-------|
+C|---0---------------------------0-|---1-------------3-------3-------|
+G|-1-----1---1---1---1---1---1-----|-0-----0---0---0-0-------0-------|

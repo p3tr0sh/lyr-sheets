@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Love in the Face of Fear
 ## Jim Kroft
 ### d
@@ -6,9 +6,9 @@
 ---
 
 e|-[d]--1-10--[C]--3-0---|-[Bb]--1-10--[a]----0---|
-B|-3-----3-1-----1-|-3-----3---1---3-|
+B|-3-----3-1-----1-|-------3---1---3-|
 G|-2-------0-------|-3-------2-------|
-D|-0---------------|---------2-------|
+D|-0---------------|-3-------2-------|
 A|---------3-------|-1-------0-------|
 E|-----------------|-----------------|
 
@@ -36,18 +36,18 @@ There's a dream I breed from loving man and those in need
     Keep loving in the face of fear
     Keep shouting that you are here
     Talking 'bout those ideas
-    Loving whether far or near 
+    Loving whether far or near
     Loving in the face of fear
     Shouting that you are here
     Loving in the face of fear
 
-It's the [d]fight of your [C]life 
+It's the [d]fight of your [C]life
 Are you [Bb]standing for your [a]right
-It's the fight of your life 
+It's the fight of your life
 Are you standing for your right
-It's the fight of your life 
+It's the fight of your life
 Are you standing for your right
-It's the fight of your life 
+It's the fight of your life
 Are you standing for your right
 
     Keep loving in the face

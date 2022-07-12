@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Donna Donna
 ## Joan Baez
 ### a

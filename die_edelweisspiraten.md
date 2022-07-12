@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Die Edelweißpiraten
 ## Trad.
 ### G
+
+*wohldenberg*
 
 ---
 

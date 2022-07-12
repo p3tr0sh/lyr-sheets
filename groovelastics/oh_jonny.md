@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr -c1
 # Oh Jonny
 ## Jan Delay
 ### a
@@ -29,7 +29,7 @@
     Oh [a]Jonny! Aber [F]hast du kein Ge[d]wissen.[C]
     Oh [a]Jonny! Ja, dann [F]kannst du dich ver[d]pissen![C]
     Oh [a]Jonny! Hat dein [F]Gandhi immer [d]Pause[C]
-    Oh [a]Jonny! Ja dann [F]geh mal schnell nach [d]Hause[C] 
+    Oh [a]Jonny! Ja dann [F]geh mal schnell nach [d]Hause[C]
 
 > Post-Chorus ; 4 ; | [B] | [B] | [Bb] | [Bb] Lauf |
     Oh [B]Jonny, oh [Bb]Jonny

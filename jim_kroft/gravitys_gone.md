@@ -1,9 +1,37 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Gravity's Gone
 ## Jim Kroft
 ### a
 
 ---
+
+I don't know how to express
+All of the feels I'm going through
+But I know
+
+I once believed in destiny
+Off the illusion now I'm free
+
+And theres nothing i cant see ... me
+
+And there is will in us
+
+Come on now just grab the one you love
+Cus time is tickin there is nothing for god people
+
+
+Dont see east and dont see west
+Go between the void and nothing less
+And I know that it in my heart - a ... test
+
+Yes there are middles there in us
+Spirits trust
+Angel crying
+
+Standing all together through the twilight ... no time for maybe
+
+kshfdausdfnafdjhfdskjnueh
+GRAVITY'S GOOOONE
 
 
 CHORUS

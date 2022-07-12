@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # All my loving
 ## The Beatles
 ### D+2
+
+*wohldenberg*
 
 ---
 

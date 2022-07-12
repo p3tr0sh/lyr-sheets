@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Kalle Heiner Peter
 ## Gerhard Schöne
 ### a

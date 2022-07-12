@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Geile Zeit
 ## Juli
 ### a
+
+*ukulele*
 
 ---
 

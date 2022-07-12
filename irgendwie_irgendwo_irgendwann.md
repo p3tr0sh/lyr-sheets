@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Irgendwie, irgendwo, irgendwann
 ## Nena
 ### b
+
+*ukulele*
 
 ---
 

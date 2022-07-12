@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr -c1
 # Long train running
 ## The Doobie Brothers
 ### g
@@ -7,14 +7,14 @@
 
 [g7]Down around the corner half a mile from here
 See them long trains runnin' and you watch 'em disappear
-    
+
     Without [c7]lo[c6]ve
     Where would you be [g]now?
     without [Eb]lo[D4][D]ve
 
 You know I saw Miss Lucy down along the tracks
 She lost her home and her family and she won't be coming back
-    
+
     Without love
     Where would you be right now?
     without love

@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Ever the winds
 ## Tommy Makem
 ### a+5
+
+*wohldenberg*
 
 ---
 

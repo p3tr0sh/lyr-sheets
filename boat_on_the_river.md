@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Boat on the river
 ## Styx
 ### e+3
+
+*wohldenberg*
 
 ---
 

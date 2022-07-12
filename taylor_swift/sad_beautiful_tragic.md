@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Sad beautiful Tragic
 ## Taylor Swift
 ### G
+
+*album:red*
 
 ---
 

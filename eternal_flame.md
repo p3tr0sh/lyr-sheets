@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Eternal flame
 ## Bangles
 ### G
@@ -10,7 +10,7 @@
 [D]Do you under[e]stand
 Do you [b]feel the [e]same
 [A]Am I only [D]drea[b]ming
-[Asus2]Is this burning [C]an eternal flame 
+[Asus2]Is this burning [C]an eternal flame
 
 
 [G]I be[e]lieve it's [C]meant to [D]be, darling

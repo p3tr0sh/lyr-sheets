@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Where is my mind?
 ## Pixies
 ### E

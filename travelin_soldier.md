@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Travelin' Soldier
 ## Dixie Chicks
 ### G+2

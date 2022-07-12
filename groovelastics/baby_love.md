@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr -c1
 # Baby love
 ## Mothers Finest
 ### g
@@ -14,7 +14,7 @@ But those [F]feelings ain't complete when you're not [Eb]here all [F]the time
     Early in the morning, early in the morning
     You come creepin' in my mind
     Oh baby love, oh baby love
-    
+
     Oh baby love, oh baby love
     I wake up with a yearning
     Burnin' for your touch, oh baby love
@@ -62,7 +62,7 @@ But those feelings ain't complete when you're not here all the time
     I walked a millions miles
     [C]On the milky way, yeah
     Just to [F]get into your arms, oh [g]baby love
-    
+
 You know i've got to...
 
 

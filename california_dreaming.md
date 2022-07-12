@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # California Dreaming
 ## The Mamas & The Papas
 ### a + 4
@@ -12,7 +12,7 @@ G|---2-------------|---2-------------|------------2--0-|-2-|
 D|-2-----2---------|-2---------------|-----------------|-0-|
 A|-----------------|-----------------|-----------------|-2-|
 E|-----------------|-----------------|-----------------|-0-|
-           triplets                            triplets  
+           triplets                            triplets
 
 [E7] All the leaves are [a]brown[G][F] and the [G]sky is [E7sus4]grey[E7]
 [F]I've been for a [C]walk[E7][a] on a [F]winters [E7sus4]day[E7]

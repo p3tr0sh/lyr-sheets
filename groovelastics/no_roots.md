@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr -c1
 # No Roots
 ## Rebscher, Merton
 ### B

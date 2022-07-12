@@ -1,4 +1,4 @@
-#!/bin/lyr -c1
+#!/usr/bin/env lyr -c1
 # Alles nur geklaut
 ## Die Prinzen
 ### e
@@ -24,7 +24,7 @@ ich [C]werde immer [G]schöner durch mein [B]Geld
 
 [e]Ich will dich gern' verführn, doch bald schon [G]merke ich das wird nicht [D]leicht für mich
 [e]Ich geh' mit dir spaziern und spreche [G]ein Gedicht, in [D]dein Gesicht
-Ich sag, ich [C]schrieb es nur für [G]dich [C]und dann küßt du [G]mich,
+Ich sag, ich [C]schrieb es nur für [G]dich [C]und dann küsst du [G]mich,
 [C]denn zu meinem [G]Glück weißt du nicht[B]
 
     Das ist alles nur geklaut...

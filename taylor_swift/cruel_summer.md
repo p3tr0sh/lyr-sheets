@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Cruel Summer
 ## Taylor Swift
 ### G+2
+
+*album:lover*
 
 ---
 

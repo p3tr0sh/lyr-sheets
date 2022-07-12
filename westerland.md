@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Westerland
 ## Die Ärzte
 ### G

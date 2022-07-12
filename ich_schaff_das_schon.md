@@ -1,9 +1,10 @@
-#!/bin/lyr -c 3
+#!/usr/bin/env lyr -c 3
 # Ich schaff das schon
 ## Rolf Zuckowski
 ### a+3
 
 ---
+
 
 [F] [d] [E7sus4] [E7]
 Als [a]Maike knapp ein Jahr alt war

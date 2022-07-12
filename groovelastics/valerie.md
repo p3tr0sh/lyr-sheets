@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr -c1
 # Valerie
 ## Amy Winehouse
 ### Eb
@@ -28,7 +28,7 @@ Why don't you come on over, Valerie?
 
     Valerie 3x
 
-> Verse 2 ; 16 
+> Verse 2 ; 16
 
 Did you have to go to jail,
 Put your house on up for sale, did you get a good lawyer?
@@ -39,7 +39,7 @@ Changed the color of your hair, are you busy?
 And did you have to pay that fine
 That you were dodging all the time, are you still dizzy?
 
-> Pre-Chorus ; 8 
+> Pre-Chorus ; 8
 > Chorus ; 8
 
     Valerie 3x
@@ -56,4 +56,4 @@ And in my head I paint a picture
 
 Valerie 7x
 
-Why don't you come on over, Valerie? 
+Why don't you come on over, Valerie?

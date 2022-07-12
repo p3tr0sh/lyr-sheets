@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Dust in the Wind
 ## Kansas
 ### a

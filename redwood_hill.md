@@ -1,3 +1,4 @@
+#!/usr/bin/env lyr
 # Redwood Hill
 ## Country Gentlemen
 ### G + 2

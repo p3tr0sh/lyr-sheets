@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Ich steh an deiner Krippe hier
 ## Paul Gerhardt, Johann Sebastian Bach
 ### a

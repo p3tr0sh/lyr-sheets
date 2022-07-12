@@ -1,4 +1,4 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # Augen Ohren und Herz
 ## Gerhard Schöne
 ### C

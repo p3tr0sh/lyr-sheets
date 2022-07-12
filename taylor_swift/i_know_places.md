@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # I know places
 ## Taylor Swift
 ### a
+
+*album:1989*
 
 ---
 

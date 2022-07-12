@@ -1,7 +1,9 @@
-#!/bin/lyr
+#!/usr/bin/env lyr
 # The last time
 ## Taylor Swift
 ### D
+
+*album:red*
 
 ---
 
