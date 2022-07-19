@@ -1,3 +1,4 @@
 [submodule "delyrium"]
 	path = delyrium
 	url = https://github.com/p3tr0sh/delyrium.git
+	branch = master

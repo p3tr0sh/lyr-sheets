@@ -1,18 +1,22 @@
 
-.PHONY: clean transform build develop install
+.PHONY: clean transform build develop install setup
 
 CD=cd delyrium
 
-install:
+setup:
+	git submodule update --init
+
+install: setup
+	git submodule foreach git pull
 	$(CD) && npm install
 
 transform:
 	$(CD) && npm run transform ../
 
-develop: install
+develop: install transform
 	$(CD) && npm run develop
 
-build: install
+build: install transform
 	$(CD) && npm run build
 
 clean:
