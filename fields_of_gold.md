@@ -8,17 +8,17 @@
 You'll [b]remember me when the [G]west wind moves
 Up_on_ the fields of [D]barley
 You'll for[b]get the sun in his [G]jealous [D]sky
-As we [G/b]walk in [A]fields of [D]gold
+As we [G]walk in [A]fields of [b]gold [D]
 
 So she took her love for to gaze awhile
 Upon the fields of barley
 In his arms she fell as her hair came down
-Among the fields of gold
+Among the fields of [D]gold
 
 Will you stay with me, will you be my love
 Among the fields of barley
 We'll forget the sun in his jealous sky
-As we lie in fields of gold
+As we lie in fields of [b]gold [D]
 
 See the west wind move like a lover so
 Upon the fields of barley
